@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Door County Pond Hockey</string>
+    <string name="title_score_entry">Score Entry</string>
+    <string name="title_scores">Scores</string>
+    <string name="title_standings">Standings</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="hint_scores">Score</string>
+    <string name="default_team_A_Name">Team A</string>
+    <string name="default_team_B_Name">Team B</string>
+    <string name="default_team_A_Score">0</string>
+    <string name="default_team_B_Score">0</string>
+    <string name="hyphen">-</string>
+    <string name="scores_retrieval_failure">Failed to get the scores from the database.
+                    Please check your internet connection</string>
+    <string name="schedule_retrieval_failure">Failed to get the schedule from the database.
+                    Please check your internet connection</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="login_button">LOGIN</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="database_scores_child">scores</string>
+    <string name="database_teams_child">teams</string>
+    <string name="database_leagues_child">leagues</string>
+    <string name="teams_retrieval_failure">Failed to get the teams from the database.
+                    Please check your internet connection</string>
+    <string name="missing_fields_error">Please fill out all fields.</string>
+    <string name="matching_entries_error">Please review your entry for matching
+                    names or scores.</string>
+    <string name="close_dialog">Close</string>
+    <string name="score_submitted">Score Submitted: </string>
+    <string name="league_selection">League:</string>
+    <string name="leagues_retrieval_failure">Failed to get the leagues from the database.
+                    Please check your internet connection</string>
+    <string name="team_selection">Team:</string>
+    <string name="default_league_selection">Select League...</string>
+    <string name="default_record">0</string>
+    <string name="default_ranking">1.</string>
+    <string name="versus">vs.</string>
+    <string name="default_rink_number">0</string>
+    <string name="default_game_time">00:00</string>
+    <string name="search">Search</string>
+</resources>

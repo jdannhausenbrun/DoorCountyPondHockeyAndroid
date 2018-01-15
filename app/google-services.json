@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477346302827",
+    "firebase_url": "https://doorcountypondhockey.firebaseio.com",
+    "project_id": "doorcountypondhockey",
+    "storage_bucket": "doorcountypondhockey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477346302827:android:c611d547c1004706",
+        "android_client_info": {
+          "package_name": "com.example.jacob.doorcountypondhockey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477346302827-iqlu6g98esd3dslb7bghk8t43fujo4qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jacob.doorcountypondhockey",
+            "certificate_hash": "204278adefdacb4a7868dd2e4e57797b8b26e543"
+          }
+        },
+        {
+          "client_id": "477346302827-5eb67uq5sntitl5d5uu1v3hc1mrdgk2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6D1tUgEPqzht7hYa6eY1sAr2Ic-u8jzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477346302827-5eb67uq5sntitl5d5uu1v3hc1mrdgk2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
